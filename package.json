@@ -12,7 +12,7 @@
   "keywords": [],
   "author": "Samir Ali",
   "license": "MIT",
-  "description": "A Weather API",
+  "description": "Updated description of Weather API",
   "dependencies": {
     "@faker-js/faker": "^9.5.0",
     "express": "^4.21.2",
